@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+#cForm{
+    width: 700px;
+    margin: auto;
+}
+
+fieldset{
+    text-indent: 10px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px rgba(0,0,0,.1);
+}
+
+legend{
+    text-shadow: 0px 0px 10px rgba(0,0,0,.5);
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+.tipo_user input{
+    margin-left: 100px;
+}
+
+.tipo_user span{
+    margin-left: 210px;
+}
